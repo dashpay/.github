@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="https://docs.dash.org/en/stable/_images/dash_logo.png" alt="Dash Wallet logo" title="Dash Wallet" width="300">
+<img src="https://docs.dash.org/en/stable/_images/dash_logo.png" alt="Dash logo" title="Dash" width="300">
 </p>
 
 WELCOME TO DASHPAY!!
