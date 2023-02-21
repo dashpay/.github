@@ -12,6 +12,6 @@ By consolidating all Dash-related activities under one organization, we aim to s
 
 [Vist our website](https://www.dash.org/) to know more about Dash. 
 
-See the [Dash Core documentation](https://dashcore.readme.io/) here for further information about Dash Core.
+See the [Dash Core documentation](https://dashcore.readme.io/) for further information about Dash Core.
 
 See the [Dash Platform documentation](https://dashplatform.readme.io/docs) for further information about Dash's Web3 platform.
