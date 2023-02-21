@@ -6,9 +6,9 @@ WELCOME TO DASHPAY!!
 
 The DashPay organization houses all GitHub activity related to Dash.
 
-By consolidating all Dash-related activities under one organization, we aim to simplify the process of developer contribution to both [Dash Core](https://github.com/dashpay/dash) and [Dash Platform](https://github.com/dashpay/platform).
+Previously, all development related to Dash Platform happened under the dashevo GitHub. However, we have since archived the repositories in Dashevo and moved everything to the DashPay GitHub.
 
-By consolidating all Dash-related activities under one organization, we aim to simplify the process of developer contribution to both Dash Core and Dash Platform.
+By consolidating all Dash-related activities under one organization, we aim to simplify the process of developer contribution to both [Dash Core](https://github.com/dashpay/dash) and [Dash Platform](https://github.com/dashpay/platform).
 
 [Vist our website](https://www.dash.org/) to know more about Dash. 
 
