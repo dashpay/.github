@@ -4,7 +4,7 @@
 
 WELCOME TO DASHPAY!!
 
-The DashPay organization houses all GitHub activity related to Dash.
+The dashpay organization houses all GitHub activity related to Dash.
 
 Previously, all development related to Dash Platform happened under the [dashevo](https://github.com/dashevo/) GitHub organization. However, we have since archived the repositories in dashevo and moved everything to the current dashpay GitHub organization.
 
